@@ -31,3 +31,8 @@ Currently transitioning toward Cloud and DevOps roles with practical exposure to
 
 📫 Email: mimokool2011@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ashish-mondal-a4190638a/
+## 🚀 Featured Projects
+
+- 🔹 [Azure DevOps Cloud Engineering Labs](https://github.com/Ashish420-tech/azure-devops-cloud-engineering-labs)
+- 🔹 Dockerized Flask App on AWS using Terraform
+- 🔹 Kubernetes Deployment Implementation
