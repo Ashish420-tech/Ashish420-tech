@@ -14,7 +14,7 @@
 
 ## About me
 
-Cloud and infrastructure engineer with **7+ years** of experience in enterprise environments, now focused on building **secure, automated, and scalable DevSecOps systems**.
+Cloud and infrastructure engineer with **7+ years over All IT Experience** transition into DevSecOps environments, now focused on building **secure, automated, and scalable DevSecOps systems**.
 
 I specialise in designing end-to-end **CI/CD pipelines**, containerised workloads, and infrastructure using **Infrastructure as Code (Terraform)** — with a strong emphasis on security, observability, and automation.
 
