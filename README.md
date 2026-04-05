@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mimokool2011@gmail.com"><img src="https://img.shields.io/badge/Email-mimokool2011%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#2c41454143474343401e1c1d1d6c4b414d4540024f4341"><img src="https://img.shields.io/badge/Email-mimokool2011%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ashish-mondal-a4190638a/"><img src="https://img.shields.io/badge/LinkedIn-Ashish%20Mondal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -14,7 +14,7 @@
 
 ## About me
 
-Cloud and infrastructure engineer with **7+ years over All IT Experience** transition into DevSecOps environments, now focused on building **secure, automated, and scalable DevSecOps systems**.
+Cloud and infrastructure engineer with **7+ years** of experience in enterprise environments, now focused on building **secure, automated, and scalable DevSecOps systems**.
 
 I specialise in designing end-to-end **CI/CD pipelines**, containerised workloads, and infrastructure using **Infrastructure as Code (Terraform)** — with a strong emphasis on security, observability, and automation.
 
@@ -65,6 +65,7 @@ I specialise in designing end-to-end **CI/CD pipelines**, containerised workload
 
 | Project | Description | Stack |
 |---|---|---|
+| [**DevSecOps 50 Assignments**](https://github.com/Ashish420-tech/devsecops-50-assignments) | Hands-on security lab implementing shift-left practices across the full SDLC — covering SAST, DAST, SCA, IaC scanning, secrets management, container security, and runtime threat detection | Trivy · Checkov · SonarQube · Vault · OWASP ZAP · Falco · GitHub Actions |
 | [**AWS DevSecOps Platform**](https://github.com/Ashish420-tech/aws-cloud-devsecops-platform) | Production-grade AWS platform with Terraform-provisioned EKS, Docker, GitHub Actions pipelines, security scanning, and CloudWatch monitoring | AWS · EKS · Terraform · Docker |
 | [**AI-Driven DevSecOps Platform**](https://github.com/Ashish420-tech/ai-devsecops-platform) | AI-augmented DevSecOps workflow integrating automated security checks and intelligent deployment gates | Python · DevSecOps · GitHub Actions |
 | [**Azure DevOps Cloud Engineering Labs**](https://github.com/Ashish420-tech/azure-devops-cloud-engineering-labs) | End-to-end Azure infrastructure labs covering VMs, networking, IAM, monitoring, and CI/CD pipelines | Azure · GitHub Actions · Python |
@@ -84,5 +85,4 @@ I specialise in designing end-to-end **CI/CD pipelines**, containerised workload
 
 <p align="center">
   <i>Open to Cloud Engineer, DevSecOps Engineer, and Platform Engineer roles.</i><br/>
-  <a href="mailto:mimokool2011@gmail.com">mimokool2011@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ashish-mondal-a4190638a/">LinkedIn</a>
-</p>
+  <a href="/cdn-cgi/l/email-protection#e4898d898b8f8b8b88d6d4d5d5a48389858d88ca878b89"><span class="__cf_email__" data-c
