@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashish Mondal 👋</h1>
 
 <p align="center">
-  <b>Cloud & Infrastructure Engineer &nbsp;·&nbsp; Azure &nbsp;·&nbsp; AWS &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; 7+ Years</b>
+  <b>Cloud & DevSecOps Engineer &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; 7+ Years</b>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## About me
 
-Cloud & Infrastructure Engineer with **7+ years** of enterprise experience designing, administering, and securing hybrid cloud environments. Deep hands-on expertise across **Microsoft Azure** and **AWS** — from virtual machine provisioning and identity management to VNet architecture and VPN connectivity.
+Cloud and infrastructure engineer with **7+ years** of experience in enterprise environments, now focused on building **secure, automated, and scalable DevSecOps systems**.
 
-Currently building out a DevOps engineering practice: containerising workloads with **Docker & Kubernetes**, provisioning infrastructure with **Terraform**, and automating delivery pipelines using **GitHub Actions**.
+I specialise in designing end-to-end **CI/CD pipelines**, containerised workloads, and infrastructure using **Infrastructure as Code (Terraform)** — with a strong emphasis on security, observability, and automation.
 
 ---
 
@@ -33,6 +33,20 @@ Currently building out a DevOps engineering practice: containerising workloads w
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Security & DevSecOps**
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+
+**Observability & Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Operating systems**
 
@@ -51,10 +65,10 @@ Currently building out a DevOps engineering practice: containerising workloads w
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Azure DevOps Cloud Engineering Labs**](https://github.com/Ashish420-tech/azure-devops-cloud-engineering-labs) | End-to-end Azure infrastructure labs covering VMs, networking, IAM, monitoring, and CI/CD pipelines | Azure · GitHub Actions · Python |
 | [**AWS DevSecOps Platform**](https://github.com/Ashish420-tech/aws-cloud-devsecops-platform) | Production-grade AWS platform with Terraform-provisioned EKS, Docker, GitHub Actions pipelines, security scanning, and CloudWatch monitoring | AWS · EKS · Terraform · Docker |
-| [**AI-Driven DevSecOps Platform**](https://github.com/Ashish420-tech/ai-devsecops-platform) | AI-augmented DevSecOps workflow integrating automated security checks and intelligent deployment gates | Python · DevSecOps |
-| [**Kubernetes Deployment Implementation**](https://github.com/Ashish420-tech/aks-devops-project) | AKS-based microservices deployment with rolling updates, health probes, and GitOps-style delivery | Kubernetes · AKS · Python |
+| [**AI-Driven DevSecOps Platform**](https://github.com/Ashish420-tech/ai-devsecops-platform) | AI-augmented DevSecOps workflow integrating automated security checks and intelligent deployment gates | Python · DevSecOps · GitHub Actions |
+| [**Azure DevOps Cloud Engineering Labs**](https://github.com/Ashish420-tech/azure-devops-cloud-engineering-labs) | End-to-end Azure infrastructure labs covering VMs, networking, IAM, monitoring, and CI/CD pipelines | Azure · GitHub Actions · Python |
+| [**Kubernetes Deployment on AKS**](https://github.com/Ashish420-tech/aks-devops-project) | AKS-based microservices deployment with rolling updates, health probes, and GitOps-style delivery | Kubernetes · AKS · Python |
 
 ---
 
@@ -69,6 +83,6 @@ Currently building out a DevOps engineering practice: containerising workloads w
 ---
 
 <p align="center">
-  <i>Open to Cloud Engineer, DevOps Engineer, and Infrastructure Engineer roles.</i><br/>
+  <i>Open to Cloud Engineer, DevSecOps Engineer, and Platform Engineer roles.</i><br/>
   <a href="mailto:mimokool2011@gmail.com">mimokool2011@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ashish-mondal-a4190638a/">LinkedIn</a>
 </p>
