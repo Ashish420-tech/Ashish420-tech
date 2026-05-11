@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashish Mondal 👋</h1>
 
 <p align="center">
-  <b>Cloud & DevSecOps Engineer &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; 7+ Years</b>
+  <b>Cloud & DevSecOps Engineer &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; 7+ Years of IT Supoort and Infra Experienced </b>
 </p>
 
 <p align="center">
