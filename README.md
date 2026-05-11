@@ -14,9 +14,25 @@
 
 ## About me
 
-Cloud and infrastructure engineer with **7+ years** of experience in enterprise environments, now focused on building **secure, automated, and scalable DevSecOps systems**.
+Infrastructure engineer with **7+ years of enterprise IT and cloud operations experience**, transitioning into DevOps through hands-on cloud, automation, and platform engineering projects.
 
-I specialise in designing end-to-end **CI/CD pipelines**, containerised workloads, and infrastructure using **Infrastructure as Code (Terraform)** — with a strong emphasis on security, observability, and automation.
+My background includes **Azure cloud operations, Linux administration, networking, identity management, VPN connectivity, incident response, and production support in SLA-driven enterprise environments**.
+
+Over the past year, I’ve built practical DevOps experience through hands-on projects and labs involving:
+
+- ☁️ **Cloud:** AWS (EC2, VPC, IAM, S3, EKS), Azure (AKS, VPN, Entra ID, Virtual Networks)
+- 🏗️ **Infrastructure as Code:** Terraform, modular infrastructure provisioning, remote state management
+- ☸️ **Containers & Orchestration:** Docker, Kubernetes (Minikube, AKS, EKS), Rancher
+- 🔄 **CI/CD:** Jenkins, GitHub Actions, Azure DevOps YAML Pipelines
+- 📊 **Observability:** Prometheus, Grafana, node_exporter, kube-state-metrics
+- 🛡️ **DevSecOps (Hands-on Labs):** Trivy, Checkov, SonarQube, Gitleaks, HashiCorp Vault
+- 🐧 **Automation & Scripting:** Bash, Python, Linux troubleshooting
+
+What I bring to DevOps is **production operations maturity** — understanding incident management, infrastructure reliability, system troubleshooting, security fundamentals, and operational discipline beyond lab-only deployments.
+
+🎯 **Target Roles:** Junior DevOps Engineer | Associate Cloud Engineer | Infrastructure Automation Engineer
+
+📍 Kolkata, India | Open to Remote / Hybrid Opportunities
 
 ---
 
