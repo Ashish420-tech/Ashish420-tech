@@ -1,104 +1,70 @@
 <h1 align="center">Hi, I'm Ashish Mondal 👋</h1>
-
 <p align="center">
-  <b>Cloud & DevSecOps Engineer &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; 7+ Years of IT Supoort and Infra Experienced </b>
+  <b>Cloud & DevSecOps Engineer &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; 7+ Years of IT Support and Infra Experience</b>
 </p>
-
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#2c41454143474343401e1c1d1d6c4b414d4540024f4341"><img src="https://img.shields.io/badge/Email-mimokool2011%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mimokool2011@gmail.com"><img src="https://img.shields.io/badge/Email-mimokool2011%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ashish-mondal-a4190638a/"><img src="https://img.shields.io/badge/LinkedIn-Ashish%20Mondal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+About me
+Infrastructure engineer with 7+ years of enterprise IT and cloud operations experience, transitioning into DevOps through hands-on cloud, automation, and platform engineering projects.
+My background includes Azure cloud operations, Linux administration, networking, identity management, VPN connectivity, incident response, and production support in SLA-driven enterprise environments.
+Over the past year, I've built practical DevOps experience through hands-on projects and labs involving:
 
-## About me
+☁️ Cloud: AWS (EC2, VPC, IAM, S3, EKS), Azure (AKS, VPN, Entra ID, Virtual Networks)
+🏗️ Infrastructure as Code: Terraform, modular infrastructure provisioning, remote state management
+☸️ Containers & Orchestration: Docker, Kubernetes (Minikube, AKS, EKS), Rancher
+🔄 CI/CD: Jenkins, GitHub Actions, Azure DevOps YAML Pipelines
+📊 Observability: Prometheus, Grafana, node_exporter, kube-state-metrics
+🛡️ DevSecOps (Hands-on Labs): Trivy, Checkov, SonarQube, Gitleaks, HashiCorp Vault
+🐧 Automation & Scripting: Bash, Python, Linux troubleshooting
 
-Infrastructure engineer with **7+ years of enterprise IT and cloud operations experience**, transitioning into DevOps through hands-on cloud, automation, and platform engineering projects.
-
-My background includes **Azure cloud operations, Linux administration, networking, identity management, VPN connectivity, incident response, and production support in SLA-driven enterprise environments**.
-
-Over the past year, I’ve built practical DevOps experience through hands-on projects and labs involving:
-
-- ☁️ **Cloud:** AWS (EC2, VPC, IAM, S3, EKS), Azure (AKS, VPN, Entra ID, Virtual Networks)
-- 🏗️ **Infrastructure as Code:** Terraform, modular infrastructure provisioning, remote state management
-- ☸️ **Containers & Orchestration:** Docker, Kubernetes (Minikube, AKS, EKS), Rancher
-- 🔄 **CI/CD:** Jenkins, GitHub Actions, Azure DevOps YAML Pipelines
-- 📊 **Observability:** Prometheus, Grafana, node_exporter, kube-state-metrics
-- 🛡️ **DevSecOps (Hands-on Labs):** Trivy, Checkov, SonarQube, Gitleaks, HashiCorp Vault
-- 🐧 **Automation & Scripting:** Bash, Python, Linux troubleshooting
-
-What I bring to DevOps is **production operations maturity** — understanding incident management, infrastructure reliability, system troubleshooting, security fundamentals, and operational discipline beyond lab-only deployments.
-
-🎯 **Target Roles:** Junior DevOps Engineer | Associate Cloud Engineer | Infrastructure Automation Engineer
-
+What I bring to DevOps is production operations maturity — understanding incident management, infrastructure reliability, system troubleshooting, security fundamentals, and operational discipline beyond lab-only deployments.
+🎯 Target Roles: Junior DevOps Engineer | Associate Cloud Engineer | Infrastructure Automation Engineer
 📍 Kolkata, India | Open to Remote / Hybrid Opportunities
 
----
+🛠️ Tech stack
+Cloud platforms
+Show Image
+Show Image
+DevOps & IaC
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Security & DevSecOps
+Show Image
+Show Image
+Show Image
+Show Image
+Observability & Monitoring
+Show Image
+Show Image
+Show Image
+Show Image
+Operating systems
+Show Image
+Show Image
+Scripting
+Show Image
+Show Image
+Show Image
 
-## 🛠️ Tech stack
+🚀 Featured projects
+ProjectDescriptionStackAWS Enterprise Platform Engineering CapstoneProduction-grade AWS DevOps platform simulating senior platform engineering — modular Terraform (7 modules), EKS, GitHub OIDC passwordless CI/CD, Trivy security gates, Ansible over SSM, Helm packaging, remote state with S3 + DynamoDB, CloudWatch observability, and defence-in-depth with 12 active security controlsAWS · EKS · Terraform · Ansible · Helm · GitHub Actions · Docker · Trivy · CloudWatchDevSecOps 50 AssignmentsHands-on security lab implementing shift-left practices across the full SDLC — covering SAST, DAST, SCA, IaC scanning, secrets management, container security, and runtime threat detectionTrivy · Checkov · SonarQube · Vault · OWASP ZAP · Falco · GitHub ActionsAWS DevSecOps PlatformProduction-grade AWS platform with Terraform-provisioned EKS, Docker, GitHub Actions pipelines, security scanning, and CloudWatch monitoringAWS · EKS · Terraform · DockerAI-Driven DevSecOps PlatformAI-augmented DevSecOps workflow integrating automated security checks and intelligent deployment gatesPython · DevSecOps · GitHub ActionsAzure DevOps Cloud Engineering LabsEnd-to-end Azure infrastructure labs covering VMs, networking, IAM, monitoring, and CI/CD pipelinesAzure · GitHub Actions · PythonKubernetes Deployment on AKSAKS-based microservices deployment with rolling updates, health probes, and GitOps-style deliveryKubernetes · AKS · Python
 
-**Cloud platforms**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**DevOps & IaC**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Security & DevSecOps**
-
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
-
-**Observability & Monitoring**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Operating systems**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
----
-
-## 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**DevSecOps 50 Assignments**](https://github.com/Ashish420-tech/devsecops-50-assignments) | Hands-on security lab implementing shift-left practices across the full SDLC — covering SAST, DAST, SCA, IaC scanning, secrets management, container security, and runtime threat detection | Trivy · Checkov · SonarQube · Vault · OWASP ZAP · Falco · GitHub Actions |
-| [**AWS DevSecOps Platform**](https://github.com/Ashish420-tech/aws-cloud-devsecops-platform) | Production-grade AWS platform with Terraform-provisioned EKS, Docker, GitHub Actions pipelines, security scanning, and CloudWatch monitoring | AWS · EKS · Terraform · Docker |
-| [**AI-Driven DevSecOps Platform**](https://github.com/Ashish420-tech/ai-devsecops-platform) | AI-augmented DevSecOps workflow integrating automated security checks and intelligent deployment gates | Python · DevSecOps · GitHub Actions |
-| [**Azure DevOps Cloud Engineering Labs**](https://github.com/Ashish420-tech/azure-devops-cloud-engineering-labs) | End-to-end Azure infrastructure labs covering VMs, networking, IAM, monitoring, and CI/CD pipelines | Azure · GitHub Actions · Python |
-| [**Kubernetes Deployment on AKS**](https://github.com/Ashish420-tech/aks-devops-project) | AKS-based microservices deployment with rolling updates, health probes, and GitOps-style delivery | Kubernetes · AKS · Python |
-
----
-
-## 📊 GitHub stats
-
+📊 GitHub stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashish420-tech&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish420-tech&layout=compact&hide_border=true&theme=default" height="150" />
 </p>
 
----
-
 <p align="center">
   <i>Open to Cloud Engineer, DevSecOps Engineer, and Platform Engineer roles.</i><br/>
-  <a href="/cdn-cgi/l/email-protection#e4898d898b8f8b8b88d6d4d5d5a48389858d88ca878b89"><span class="__cf_email__" data-c
+  <a href="mailto:mimokool2011@gmail.com">mimokool2011@gmail.com</a>
+</p>
